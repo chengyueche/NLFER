@@ -1,2 +1,2 @@
 # NLFER: Enhancing Noisy Label Facial Expression Recognition with Multi-Branch Attention Cross-Fusion
-The full content of the code will be released upon receipt.
+This repository contains the official implementation of NLFER, which is a facial expression recognition network used for cross-fusion of multi-branch attention.
